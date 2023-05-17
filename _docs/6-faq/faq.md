@@ -11,7 +11,7 @@ NShiftKey is a DevSecOps service that provides continuous security capabilities 
 ### Is there anything I need to install to use NShiftKey?
 
 It is possible to install or delete NShiftKey in the OSS repo under development with just a few clicks and automatically register the analysis results with OSS once installed.
-[How to install](https://naver.github.io/nshiftkey-doc/0-getting-started/getting_started/)
+[How to install](https://naver-security.github.io/nshiftkey-doc/0-getting-started/getting_started/)
 
 
 ### Does NShiftKey slow down DevOps' development spped?
@@ -21,7 +21,7 @@ NShiftKey is an automated security analysis system that informs analysis results
 
 ### What kind of programming language does NShiftKey support?
 
-See here the language in which NShiftKey supports static analysis. [Static Analysis Requirement](https://naver.github.io/nshiftkey-doc/1-static-analysis/requirement/). In case of open source, please refer to here. [Open Source Analysis Requirement](https://naver.github.io/nshiftkey-doc/2-opensource-analysis/requirement/)
+See here the language in which NShiftKey supports static analysis. [Static Analysis Requirement](https://naver-security.github.io/nshiftkey-doc/1-static-analysis/requirement/). In case of open source, please refer to here. [Open Source Analysis Requirement](https://naver-security.github.io/nshiftkey-doc/2-opensource-analysis/requirement/)
 
 ### How does NShiftKey check programming language when analyzing the repository?
 
@@ -83,5 +83,5 @@ If you do not have permission to install the app, it appears as Request, not Ins
 
 Like other security analysis tools, NShiftKey's analysis results have false-alarm. NShiftKey is an automated analytics system, so if too many false-alarms occur, developers can think of detection results as unimportant, so detections are focused on high-severity and critical security vulnerabilities. If you give us a feedback on certain false-alarm, it will help us improve our NShiftKey detection performance. In addition, please contact us for improvements, questions, and bugs below.
 
-> [Official channel](https://github.com/naver/nshiftkey-doc/issues)
+> [Official channel](https://github.com/naver-security/nshiftkey-doc/issues)
 

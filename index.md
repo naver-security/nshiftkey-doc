@@ -31,6 +31,6 @@ NShiftKey can help maintain robust security, but it cannot replace the security 
 
 ### Official Channel
 
-> [https://github.com/naver/nshiftkey-doc/issues](https://github.com/naver/nshiftkey-doc/issues)
+> [https://github.com/naver-security/nshiftkey-doc/issues](https://github.com/naver-security/nshiftkey-doc/issues)
 
 We are running an official NShiftKey channel. We provide you with information about NShiftKey, including guides and release notes, and we welcome your enquiries and proposals.

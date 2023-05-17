@@ -6,7 +6,7 @@ order: 4
 ### Analyze Modified Files Only
 - NShiftKey analyzes all source codes in the Repository by default.
 - You can set to analyze only modified codes in Pull Request via security_check.rc setting.
-> Please refer to DifferentialAnalysis section of here[(link)](https://github.com/naver/nshiftkey-doc/4-best-practice/customize_settings/).
+> Please refer to DifferentialAnalysis section of here[(link)](https://naver-security.github.io/nshiftkey-doc/4-best-practice/customize_settings/).
 
 ### Supported Languages
 - Differential Analysis functionality is supported for all of the following languages: However, C/C++, JAVA, and Scala output only vulnerabilities detected in modified files after full scan internally.
