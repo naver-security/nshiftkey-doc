@@ -21,7 +21,7 @@ NShiftKey should work in conjunction with Github. Just by installing NShiftKey a
 
 ## Installation
 - Connect NShiftKey and click Configure.
-  - [https://github.com/github-apps/nshiftkey](https://github.com/github-apps/nshiftkey)
+  - [https://github.com/apps/nshiftkey](https://github.com/apps/nshiftkey)
 
 ![](../../images/security-checker.png)
 
@@ -136,6 +136,6 @@ Opensource library analysis | Check tab of Pull Request
 
 ## Uninstallation
 - To uninstall NShiftKey, connect to the security-checker and choose the repo you want to delete. Then click the "X" next to repo name and save.
-  - [https://github.com/github-apps/nshiftkey](https://github.com/github-apps/nshiftkey)   
+  - [https://github.com/apps/nshiftkey](https://github.com/apps/nshiftkey)
 
 ![](../../images/remove.png)
