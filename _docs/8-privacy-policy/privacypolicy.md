@@ -1,3 +1,9 @@
+---
+title: ''
+category: Privacy Policy
+order: 1
+---
+
 # NShiftKey Privacy Policy
 
 The NShiftKey Privacy Policy prescribes the principles of personal information processing and protection of “NShiftKey,” provided by NAVER Corporation (hereinafter referred to as “Company”). The Company complies with personal information protection regulations of related laws, such as the Personal Information Protection Act, and strives to protect the rights and interests of data subjects.
