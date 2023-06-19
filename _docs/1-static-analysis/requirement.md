@@ -21,19 +21,19 @@ The static analysis module of NShiftKey supports the following features:
 
 Language-specific support analysis functions are as follows:
 
-Language | supported features
--- | --
-Java | Source code, Opensource, Sensitive data
-Javascript/Typescript | Source code, Opensource, Sensitive data
-Go | Source code, Opensource, Sensitive data
-C (C++) | Source code, Opensource, Sensitive data
-Kotlin | Source code, Opensource, Sensitive data
-Python | Opensource, Sensitive data
-Ruby | Opensource, Sensitive data
-Objective C (Swift) | Opensource, Sensitive data
-Scala | Source code, Sensitive data
-HTML | Source code, Sensitive data 
-CSS | Source code, Sensitive data
+Language | Source code | Opensource | Sensitive data
+-- | -- | -- | --
+Java | O | O | O
+Javascript/Typescript | O | O | O
+Go | O | O | O
+C (C++) | O | O | O
+Kotlin | O | O | O
+Python | O | O | O
+Ruby | O | O | O
+Objective C (Swift) | | O | O
+Scala | O | O | O
+HTML | O | | O
+CSS | O | | O
 
 
 ### Trigger condition of Source code vulnerability scanning 
